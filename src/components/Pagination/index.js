@@ -1,11 +1,13 @@
-import {Component} from 'react'
+/* import React from 'react'
 import './index.css'
 
-class Pagination extends Component {
+class Pagination extends React.Component {
   state = {pageNo: 1}
 
   onClickNext = () => {
-    const {apiCallBack, totalPages} = this.props
+    const {totalPages, apiCallBack} = this.props
+    //  console.log(totalPages)
+    //  console.log('totalPages')
     this.setState(
       prevState => {
         if (prevState.pageNo < totalPages) {
@@ -61,8 +63,8 @@ class Pagination extends Component {
   }
 }
 export default Pagination
+*/
 
-/*
 import React from 'react'
 import './index.css'
 
@@ -126,4 +128,3 @@ class Pagination extends React.Component {
 }
 
 export default Pagination
-*/

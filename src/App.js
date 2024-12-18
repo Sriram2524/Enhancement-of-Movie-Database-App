@@ -1,4 +1,4 @@
-import {Component} from 'react'
+/* import {Component} from 'react'
 import {Route, Switch} from 'react-router-dom'
 import Popular from './components/Popular'
 import SearchQuery from './components/SearchQuery'
@@ -64,8 +64,8 @@ class App extends Component {
   }
 }
 export default App
+*/
 
-/*
 import {useState} from 'react'
 import {Route, Switch} from 'react-router-dom'
 
@@ -132,4 +132,3 @@ const App = () => {
 }
 
 export default App
-*/

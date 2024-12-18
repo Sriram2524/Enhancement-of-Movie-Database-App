@@ -1,4 +1,4 @@
-import {Link} from 'react-router-dom'
+/* import {Link} from 'react-router-dom'
 import './index.css'
 
 const MovieCard = props => {
@@ -21,8 +21,8 @@ const MovieCard = props => {
   )
 }
 export default MovieCard
+*/
 
-/*
 import {Link} from 'react-router-dom'
 import './index.css'
 
@@ -47,4 +47,3 @@ const MovieCard = props => {
 }
 
 export default MovieCard
-*/
